@@ -57,6 +57,7 @@ for i in t:
 plt.plot(t,yt,'b-')
 plt.plot(x,y,'ro')
 plt.plot(xp,yp,'g*')
+
 plt.show()
 
 
